@@ -1,0 +1,10 @@
+<confg encoding="euc-kr">
+  <HistoryFile>clipHistory.xml</HistoryFile>
+  <BitmapFile>clipBMP.bmp</BitmapFile>
+  <DownloadDir>\Download\\</DownloadDir>
+
+  <IP>127.0.0.1</IP>
+	<Port>21</Port>
+	<ID>TestID</ID>
+	<Pass>TestPass</Pass>
+</confg>
