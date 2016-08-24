@@ -1,0 +1,15 @@
+<confg encoding="euc-kr">
+  <!--- 미디어 파일을 검색할 디렉토리 -->
+  <DownloadDir>D:\Downz</DownloadDir>
+  <!--- 영화 미디어 저장 디렉토리 -->
+  <MoviezDir>D:\Moviez</MoviezDir>
+  <!--- TV Show 미디어 저장 디렉토리 -->
+  <TVShowzDir>D:\TV Showz</TVShowzDir>
+  <!--- 정보를 찾을수 없는 미디어 디렉토리 -->
+  <EtcDir>D:\Etcz</EtcDir>
+
+  <!--- 하위 카테고리 사용여부(드라마 종류, 예능등) -->
+  <SubCategory>true</SubCategory>
+  <!--- Copy 여부(true : Copy, false : Move) -->
+  <CopyType>true</CopyType>
+</confg>
